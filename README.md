@@ -1,2 +1,2 @@
 # ExpedienteOrtopedico
-Creación de expediente ortopédico
+Describir brevemente de que se trata el proyecto "Creación de expediente ortopédico"
