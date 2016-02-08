@@ -1,2 +1,2 @@
 # ExpedienteOrtopedico
-Describir brevemente de que se trata el proyecto "Creación de expediente ortopédico"
+El objetivo del software es la creación de expedientes ortopedicos para mejor manejo de información de los pacientes.
