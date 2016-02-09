@@ -1,2 +1,0 @@
-Directorio de diseños
-
