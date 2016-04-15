@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+@import url(https://fonts.googleapis.com/css?family=Arya);
+
+
+.button{
+  display: block;
+  height: 30px;
+  width: 170px;
+  background: #3BFEA0;
+  border: 2px solid #fff;
+}
+
+.button-submit{
+  border: 0px;
+  color: #fff;
+  text-shadow: 0 1px rgba(0,0,0,0.1);
+  background-color: #3BFEA0;
+}
+
+.button-submit:hover{
+  border: 0px;
+  text-shadow: 0 1px rgba(0,0,0,0.3);
+  background-color: #23EB85;
+}
+
+
+.objetivo{
+    text-align: justify;
+    color: darkslategray;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 0 1px white;
+    margin-right: 130px;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+
+
+.description{
+    text-align: justify;
+    color: white;
+    text-shadow: 0 1px darkslategray;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 70px;
+}
+
+ .title{
+  	color: black;
+  	font-size: 50px;
+  	letter-spacing: 5px;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 100;
+    text-shadow: 0 7px rgba(0,0,0,0.1);
+    text-align: center;
+	padding: 0 10px;
+    margin-top: 50px;  
+ }
+ 
+  .name{
+  	color: black;
+  	font-size: 30px;
+  	letter-spacing: 0px;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 100;
+    text-shadow: 0 7px rgba(0,0,0,0.1);
+    text-align: center;
+	padding: 0 2px;
+    margin-top: 50px;  
+ }
